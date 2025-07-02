@@ -25,6 +25,6 @@ block-beta
   f["UPS (3KVA)"] g["Network Switch\n(16 port)"] h["VM Server\n(16 cores 32G 2T Nvme)"]
   end
   block:group4
-  i["Gateway Server (RPI4 4GB)"] j["Backup Gateway, Network Boot Server (RPI4 4GB)"]
+  i["Gateway Server\n(RPI4 4GB)"] j["Boot Server\n(RPI4 4GB)"]
   end
 ```
