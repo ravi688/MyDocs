@@ -10,6 +10,15 @@
 ### [Regex](/Regex.md)
 ### [Git](/Git.md)
 
+### Packaging, Deployment and Recovery
+1. Build docker images for each service (web, database, etc.)
+2. Spin up wherever you want
+3. For system level configs, maintain a config repository and a shell script to automatically configre a bare-metal system
+4. Maintain automated backup and restore scripts - test them often
+5. Use vagrant in some cases
+6. Use Ansible or Terraform if required
+7. Document everything.
+
 ### Machines Setup
 #### Machines we have
 ```mermaid
