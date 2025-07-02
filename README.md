@@ -17,7 +17,8 @@
 4. Maintain automated backup and restore scripts - test them often
 5. Use vagrant in some cases
 6. Use Ansible or Terraform if required
-7. Document everything.
+7. Decouple runtime from storage/data to enable resuming by restoring the data in a fresh system
+8. Document everything.
 
 ### Machines Setup
 #### Machines we have
